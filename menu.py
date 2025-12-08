@@ -2,7 +2,7 @@ import pygame
 import sys
 import subprocess
 pygame.init()
-pygame.mixer.init()
+pygame.mixer.init()aminousfalfkfffzzeffz
 
 
 
@@ -106,3 +106,4 @@ while running:
 
 pygame.quit()
 print("Fermeture du jeu")
+
